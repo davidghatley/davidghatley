@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @davidghatley
-- 👀 I’m interested in design and full stack development
-- 🌱 I’m currently learning JavaScript
-- 📫 If you'd like to talk, just send me an email at: davidhatley@me.com
+# David Hatley
 
-<!---
-davidghatley/davidghatley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build experimental AI systems, developer tools, and software for technical and scientific workflows.
+
+My background spans physics, mathematics, laboratory science, web development, and applied software engineering. I am especially interested in agentic systems, local AI, developer infrastructure, reproducible experimentation, and tools that make complex technical work easier to operate.
+
+## Selected work
+
+### [Career OS](https://github.com/davidghatley/career-market-analysis)
+
+A local-first research and decision-support system for analyzing technical career markets. Built around Python, SQLite, reproducible data pipelines, provenance, validation, tests, and explicit evidence-quality constraints.
+
+## Current directions
+
+- AI agents and orchestration
+- Local inference and developer tooling
+- Selective decision models and ML experimentation
+- Scientific and laboratory software
+- Open-source systems and composable infrastructure
